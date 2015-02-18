@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">CognitiveAssigment1</string>
+    <string name="app_name">BrainTrain</string>
     <string name="action_settings">Action Settings</string>
     <string name="reaction_time">Reaction time</string>
     <string name="start">Tap to start</string>
     <string name="title_activity_color_exercise">ColorExercise</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_feedback">Feedback</string>
+    <string name="feedback">Your average time was 2.8 sec. Remember to read the Help.</string>
+
 
 </resources>
